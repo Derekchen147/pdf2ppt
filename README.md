@@ -10,11 +10,12 @@
 
 - jpgs：保存分割出来的jpg
 - result：保存最终生成的ppt
-- source_files：保存想要转变成ppt格式的pdf（会历遍这个文件夹里面所有的文件，要改几个放几个）
+- source_files：保存想要转变成ppt格式的pdf（会历遍这个文件夹里面所有的文件，**里面只能放pdf文件！**）
 - requirements.txt：保存运行需要的包
 
 ## 使用方法
-_一定要把sources_files文件夹里面的delete_me.txt删掉再放入pdf！！！！_
+
+**一定要把sources_files文件夹里面的delete_me.txt删掉再放入pdf！！！！**
 
 将requirements.txt里面的包都下载下来，可以用
 
